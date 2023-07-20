@@ -1,2 +1,2 @@
-# GHRCE IUCAA Workshop
+# Python for Astronomy Data Workshop
 PythonTutorials for Astronomy
